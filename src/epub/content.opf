@@ -50,7 +50,7 @@
 		<meta property="group-position" refines="#collection-3">43</meta>
 		<meta id="collection-4" property="belongs-to-collection">The Guardian’s 100 Best Novels of All Time (2026)</meta>
 		<meta property="collection-type" refines="#collection-4">set</meta>
-		<meta property="group-position" refines="#collection-4">77</meta>
+		<meta property="group-position" refines="#collection-4">79</meta>
 		<meta id="collection-5" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-5">set</meta>
 		<meta property="group-position" refines="#collection-5">42</meta>
